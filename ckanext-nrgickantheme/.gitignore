@@ -1,0 +1,5 @@
+
+*.pyc
+ckanext_nrgickantheme.egg-info/*
+build/*
+dist/*

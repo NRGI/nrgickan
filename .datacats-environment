@@ -1,0 +1,7 @@
+[datacats]
+name = nrgickan
+ckan_version = 2.3
+
+[site_primary]
+port = 5360
+
