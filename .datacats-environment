@@ -1,6 +1,7 @@
 [datacats]
 name = nrgickan
 ckan_version = 2.3
+extra_containers = redis
 
 [site_primary]
 port = 5360
